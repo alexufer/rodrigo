@@ -1,0 +1,51 @@
+#sans {
+width: 300px;
+border-radius: 70px;
+}
+#body {
+background: linear-gradient(cyan, black);
+}
+#mango{
+    width: 300px;
+    height: 300px;
+    border-color: blueviolet;
+    border-width: 10px;
+    border-style: outset;
+}
+#limon{
+    width: 300px;
+    height: 300px;
+    border-color: rgba(2, 178, 190, 0.685);
+    border-width: 10px;
+    border-style: outset;
+}
+#nomil{
+    width: 300px;
+    height: 300px;
+    border-color: rgba(159, 17, 172, 0.685);
+    border-width: 10px;
+    border-style: outset;
+}
+#olecram{
+    width: 300px;
+    height: 300px;
+    border-color: rgba(37, 24, 223, 0.685);
+    border-width: 10px;
+    border-style: outset;
+}
+#marcelo{
+    color: rgba(245, 245, 245, 0.788);
+}
+#mondongo {
+    padding: 12px;
+    background-color: goldenrod;
+    border-color: rgba(192, 238, 241, 0.685);
+    border-radius: 15px;
+}
+#hi{
+    color: rgb(157, 71, 160);
+}
+#rodri {
+    color: rgb(12, 151, 24);
+    text-shadow: 7px 7px 7px rgb(231, 219, 113);
+}
